@@ -1831,10 +1831,102 @@ a {
   }
 }
 .cid-ts7cHvkrdu {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #232323;
   overflow: hidden;
+}
+.cid-ts7Bc2SYL7 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1920x1724.png");
+}
+.cid-ts7Bc2SYL7 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ts7Bc2SYL7 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ts7Bc2SYL7 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-ts7BNIW26O {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-ts7BNIW26O .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ts7BNIW26O .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ts7BNIW26O .item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.cid-ts7BNIW26O .item .icon-wrap {
+  text-align: center;
+}
+.cid-ts7BNIW26O .item span {
+  font-size: 2rem;
+  color: #ffffff;
+  line-height: 60px;
+}
+.cid-ts7BNIW26O .item::before {
+  content: "\e96b";
+  font-family: Moririse2 !important;
+  position: absolute;
+  font-size: 32px;
+  left: -15px;
+  top: 12%;
+  color: #49b110;
+}
+.cid-ts7BNIW26O .item.first:before {
+  display: none;
+}
+.cid-ts7BNIW26O .item.five:before {
+  display: none;
+}
+.cid-ts7BNIW26O .icon-box {
+  background: #49b110;
+  width: 60px;
+  min-width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-block;
+}
+.cid-ts7BNIW26O .text-box {
+  margin-top: 1rem;
+  text-align: center;
+}
+.cid-ts7BNIW26O .mbr-iconfont {
+  color: #4479d9 !important;
+  position: absolute;
+  top: 50%;
+  left: 100%;
+}
+@media (max-width: 991px) {
+  .cid-ts7BNIW26O .item:before {
+    display: none;
+  }
+  .cid-ts7BNIW26O .card-wrapper {
+    margin-bottom: 2rem;
+  }
 }
 #custom-html-q {
   /* Type valid CSS here */
@@ -1849,7 +1941,7 @@ a {
   color: #777;
 }
 .cid-ts7cHvkrdu {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #232323;
   overflow: hidden;
@@ -1870,7 +1962,7 @@ a {
   top: 0;
 }
 .cid-ts7cHvkrdu {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 30px;
   background-color: #232323;
   overflow: hidden;
